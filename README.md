@@ -1,4 +1,3 @@
-# Welcome to the Tiny Flappy Bird
-
-Build walkthrough in this Youtube video:
-[![Video preview](https://img.youtube.com/vi/mfk8Rk2eUJY/0.jpg)](https://www.youtube.com/watch?v=mfk8Rk2eUJY)
+ Welcome to the Tiny Flappy Bird 
+ click on the link to play 
+ use your mouse/ or tap to play
